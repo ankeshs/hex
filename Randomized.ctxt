@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=board
+comment0.target=void\ init(Board)
+comment1.params=x1\ y1\ val\ count
+comment1.target=void\ nextMove(int,\ int,\ int,\ int)
+comment2.params=x\ y\ val\ count
+comment2.target=void\ updateAI(int,\ int,\ int,\ int)
+numComments=3

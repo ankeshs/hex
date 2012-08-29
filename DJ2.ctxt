@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=G\ xp\ yp
+comment0.target=java.util.List\ algo(Graph,\ int,\ int)
+comment1.params=x
+comment1.target=int\ min([LVertex;)
+comment2.params=x\ v
+comment2.target=boolean\ find([LVertex;,\ Vertex)
+comment3.params=G\ val
+comment3.target=Vertex\ brutePattern(Graph,\ int)
+comment4.params=l\ k
+comment4.target=boolean\ checkAlt(java.util.List,\ int)
+numComments=5

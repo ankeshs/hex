@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n\ val
+comment0.target=NFlow(int,\ int)
+comment1.params=x1\ y1\ val\ count
+comment1.target=void\ nextMove(int,\ int,\ int,\ int)
+comment2.params=m
+comment2.target=int\ symmetry(java.util.ArrayList)
+comment3.params=b
+comment3.target=void\ init(Board)
+comment4.params=x\ y\ val\ count
+comment4.target=void\ updateAI(int,\ int,\ int,\ int)
+numComments=5

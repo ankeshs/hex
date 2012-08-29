@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ setState(int)
+comment1.params=
+comment1.target=int\ getState()
+comment2.params=
+comment2.target=double[]\ polyXIn()
+comment3.params=
+comment3.target=double[]\ polyYIn()
+numComments=4

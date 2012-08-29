@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BoardSettings()
+comment1.params=n
+comment1.target=void\ setOrder(int)
+comment2.params=
+comment2.target=int\ getOrder()
+comment3.params=screenSize
+comment3.target=void\ findScale(java.awt.Dimension)
+numComments=4

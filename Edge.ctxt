@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=Vertex\ adjacent(Vertex)
+comment1.params=v1\ v2\ wt
+comment1.target=void\ linkUp(Vertex,\ Vertex,\ double)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=board
+comment0.target=NewGame(Board)
+comment1.params=e
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment3.params=e
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=void\ init(Board)
+comment1.params=n\ val
+comment1.target=EasyMiniMax(int,\ int)
+comment2.params=x1\ y1\ val\ count
+comment2.target=void\ nextMove(int,\ int,\ int,\ int)
+comment3.params=l\ mul
+comment3.target=java.util.ArrayList\ getKeys(java.util.List,\ int)
+comment4.params=a1\ a2
+comment4.target=java.util.List\ merge(java.util.List,\ java.util.List)
+comment5.params=a
+comment5.target=KeyNode\ max(java.util.List)
+comment6.params=x\ y\ val\ count
+comment6.target=void\ updateAI(int,\ int,\ int,\ int)
+numComments=7

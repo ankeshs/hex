@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=wavfile
+comment0.target=AePlayWave(java.lang.String)
+comment1.params=wavfile\ p
+comment1.target=AePlayWave(java.lang.String,\ AePlayWave.Position)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=val
+comment3.target=void\ play(int)
+numComments=4

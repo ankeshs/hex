@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Graph(int)
+comment1.params=x\ y\ f\ forced\ val
+comment1.target=void\ update(int,\ int,\ boolean,\ boolean,\ int)
+numComments=2
